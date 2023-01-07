@@ -98,9 +98,9 @@
 
         不允许，需要解锁
 
-        ![](./img/AD_photo (1).jpg)
+        ![](./img/AD_photo 1.jpg)
 
-        ![AD_photo (2)](./img/AD_photo (2).jpg)
+        ![AD_photo (2)](./img/AD_photo 2.jpg)
 
       - iOS
 
@@ -114,9 +114,9 @@
 
         不允许，需要解锁
 
-        ![](./img/AD_messagebox (1).jpg)
+        ![](./img/AD_messagebox 1.jpg)
 
-        ![AD_messagebox (2)](./img/AD_messagebox (2).jpg)
+        ![AD_messagebox (2)](./img/AD_messagebox 2.jpg)
 
       - iOS
 
